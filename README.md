@@ -14,7 +14,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Turtle Crossing](https://github.com/Sookchand/Turtle-Crossing/assets/34344439/d7df11ad-badd-4836-8c18-acc586ac4131)
+
 
 
 ## Tech Stack
